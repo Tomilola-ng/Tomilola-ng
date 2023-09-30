@@ -8,7 +8,6 @@ I'm Oluwafemi Tomilola, but you can call me Tomi. I'm a passionate entrepreneur 
 - 🚀 Co-Founder of startups: Grouby (a group buying platform) and Shoptinga (a platform for trading digital products with fiat and crypto).
 - 👨‍💻 Full-stack web developer using ReactJS, NextJS, and Django Rest Framework.
 - 📱 Mobile app developer using React Native and Expo.
-- 🌟 Received a $39,500 scholarship sponsored by Mastercard to study software engineering remotely at ALX.
 
 ## My Tech Stack
 - Frontend: ReactJS, NextJS, TailwindCSS, Bootstrap, SCSS, JQuery, Framer Motion, GSAP.
