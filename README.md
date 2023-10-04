@@ -41,10 +41,16 @@ I'm Oluwafemi Tomilola, but you can call me Tomi. I'm a passionate entrepreneur 
 </a>
 
 <a href="https://github.com/Tomilola-ng/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Tomilola-ng&repo=Techiesbio" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Tomilola-ng&repo=Tomi-Teaches-C" />
 </a>
 <a href="https://github.com/Tomilola-ng/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Tomilola-ng&repo=Billmink" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Tomilola-ng&repo=Quick_Scripts" />
+</a>
+<a href="https://github.com/Tomilola-ng/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Tomilola-ng&repo=TrackBackendTask1" />
+</a>
+<a href="https://github.com/Tomilola-ng/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Tomilola-ng&repo=TrackBackendTask2" />
 </a>
 <!-- <a href="https://github.com/Tomilola-ng/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Tomilola-ng&repo=Billmink" />
