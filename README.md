@@ -40,21 +40,18 @@ I'm Oluwafemi Tomilola, but you can call me Tomi. I'm a passionate entrepreneur 
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Tomilola-ng&layout=compact&langs_count=8&card_width=320" />
 </a>
 
-<a href="https://github.com/Tomilola-ng/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Tomilola-ng&repo=Tomi-Teaches-C" />
+<a href="https://github.com/Tomilola-ng">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Tomilola-ng&repo=TrackBackendTask3" />
 </a>
-<a href="https://github.com/Tomilola-ng/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Tomilola-ng&repo=Quick_Scripts" />
-</a>
-<a href="https://github.com/Tomilola-ng/github-readme-stats">
+<a href="https://github.com/Tomilola-ng">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Tomilola-ng&repo=TrackBackendTask1" />
 </a>
-<a href="https://github.com/Tomilola-ng/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Tomilola-ng&repo=TrackBackendTask2" />
+<a href="https://github.com/Tomilola-ng">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Tomilola-ng&repo=Quick_Scripts" />
 </a>
-<!-- <a href="https://github.com/Tomilola-ng/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Tomilola-ng&repo=Billmink" />
-</a> -->
+<a href="https://github.com/Tomilola-ng">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Tomilola-ng&repo=Tomi-Teaches-C" />
+</a>
 
 ## What Drives Me
 I'm passionate about bringing dreams to life and making a difference in the world. I thrive on optimism and value constructive criticism. Feel free to share your thoughts with me.
