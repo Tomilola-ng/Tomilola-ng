@@ -33,9 +33,22 @@ I'm Oluwafemi Tomilola, but you can call me Tomi. I'm a passionate entrepreneur 
 <a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" width="36" height="36" alt="Heroku" /></a>
 </p>
 
-<a href="http://www.github.com/Tomilola-ng"><img src="https://github-readme-stats.vercel.app/api?username=Tomilola-ng&count_private=true&show_icons=true" alt="Tomilola-ng's GitHub stats" /></a>
+<a href="https://github.com/Tomilola-ng/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Tomilola-ng" />
+</a>
+<a href="https://github.com/Tomilola-ng/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Tomilola-ng&layout=compact&langs_count=8&card_width=320" />
+</a>
 
-<a href="https://github.com/Tomilola-ng" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tomilola-ng&langs_count=10&locale=en" alt="My Top Languages" /></a>
+<a href="https://github.com/Tomilola-ng/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Tomilola-ng&repo=Techiesbio" />
+</a>
+<a href="https://github.com/Tomilola-ng/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Tomilola-ng&repo=Billmink" />
+</a>
+<!-- <a href="https://github.com/Tomilola-ng/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Tomilola-ng&repo=Billmink" />
+</a> -->
 
 ## What Drives Me
 I'm passionate about bringing dreams to life and making a difference in the world. I thrive on optimism and value constructive criticism. Feel free to share your thoughts with me.
