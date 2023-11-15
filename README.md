@@ -33,6 +33,9 @@ I'm Oluwafemi Tomilola, but you can call me Tomi. I'm a passionate entrepreneur 
 <a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" width="36" height="36" alt="Heroku" /></a>
 </p>
 
+### My Awards
+[![trophy](https://github-profile-trophy.vercel.app/?username=Tomilola-ng&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 <a href="https://github.com/Tomilola-ng/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Tomilola-ng" />
 </a>
