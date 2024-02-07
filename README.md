@@ -1,5 +1,7 @@
 # Hi there, I'm Tomi! 👋
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Tomilola-ng&label=Profile%20views&color=0e75b6&style=flat" alt="Tomilola-ng" /> </p>
+
 I'm Oluwafemi Tomilola, but you can call me Tomi. I'm a passionate entrepreneur and programmer based in Lagos, Nigeria, on a mission to turn dreams into reality through technology.
 
 ## About Me
@@ -43,16 +45,18 @@ I'm Oluwafemi Tomilola, but you can call me Tomi. I'm a passionate entrepreneur 
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Tomilola-ng&layout=compact&langs_count=8&card_width=320" />
 </a>
 
-<a href="https://github.com/Tomilola-ng">
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Tomilola-ng&" alt="Tomilola-ng" /></p>
+
+<a href="https://github.com/Tomilola-ng/TrackBackendTask2">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Tomilola-ng&repo=TrackBackendTask2" />
 </a>
-<a href="https://github.com/Tomilola-ng">
+<a href="https://github.com/Tomilola-ng/TrackBackendTask1">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Tomilola-ng&repo=TrackBackendTask1" />
 </a>
-<a href="https://github.com/Tomilola-ng">
+<a href="https://github.com/Tomilola-ng/Quick_Scripts">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Tomilola-ng&repo=Quick_Scripts" />
 </a>
-<a href="https://github.com/Tomilola-ng">
+<a href="https://github.com/Tomilola-ng/Tomi-Teaches-C">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Tomilola-ng&repo=Tomi-Teaches-C" />
 </a>
 
