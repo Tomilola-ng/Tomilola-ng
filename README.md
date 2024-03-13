@@ -38,6 +38,10 @@ I'm Oluwafemi Tomilola, but you can call me Tomi. I'm a passionate entrepreneur 
 ### My Awards
 [![trophy](https://github-profile-trophy.vercel.app/?username=Tomilola-ng)](https://github.com/ryo-ma/github-profile-trophy)
 
+### I am a proud, principled programming style compliant.
+[![js-semistandard-style](https://raw.githubusercontent.com/standard/semistandard/master/badge.svg)](https://github.com/standard/semistandard)
+
+### Some of my Badges
 <a href="https://github.com/Tomilola-ng/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Tomilola-ng" />
 </a>
@@ -47,6 +51,7 @@ I'm Oluwafemi Tomilola, but you can call me Tomi. I'm a passionate entrepreneur 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Tomilola-ng&" alt="Tomilola-ng" /></p>
 
+### Old projects
 <a href="https://github.com/Tomilola-ng/TrackBackendTask2">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Tomilola-ng&repo=TrackBackendTask2" />
 </a>
