@@ -13,11 +13,11 @@ I'm Oluwafemi Tomilola, but you can call me Tomi. I'm a passionate entrepreneur 
 
 ## My Tech Stack
 - Frontend: ReactJS, NextJS, TailwindCSS, Bootstrap, SCSS, JQuery, Framer Motion, GSAP.
-- Backend: Django, Python, SQlite, PostGres, JavaScript, TypeScript, Shell.
+- Backend: Django, NestJS, SQLite, Postgres, Shell.
+- Languages: Python, TypeScript, JavaScript, C, C++, Ruby, PHP, HTML, CSS
 - Version Control: GitHub.
 - Hosting: Heroku, Render, Vercel, Netlify, PythonAnywhere
 - BAAS: Firebase, SupaBase
-- Other: C.
 
 ### Skills
 
@@ -50,6 +50,7 @@ I'm Oluwafemi Tomilola, but you can call me Tomi. I'm a passionate entrepreneur 
 </a>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Tomilola-ng&" alt="Tomilola-ng" /></p>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Tomilola-ng"/></a>
 
 ### Old projects
 <a href="https://github.com/Tomilola-ng/TrackBackendTask2">
@@ -66,7 +67,7 @@ I'm Oluwafemi Tomilola, but you can call me Tomi. I'm a passionate entrepreneur 
 </a>
 
 ## What Drives Me
-I'm passionate about bringing dreams to life and making a difference in the world. I thrive on optimism and value constructive criticism. Feel free to share your thoughts with me.
+I'm passionate about bringing dreams to life and making a difference. I thrive on optimism and value constructive criticism. Feel free to share your thoughts with me.
 
 ## Let's Connect
 - LinkedIn: [Tomilola Oluwafemi](https://www.linkedin.com/in/tomilola-oluwafemi)
