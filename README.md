@@ -49,7 +49,7 @@ I'm Oluwafemi Tomilola, but you can call me Tomi. I'm a passionate entrepreneur 
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Tomilola-ng&layout=compact&langs_count=8&card_width=320" />
 </a>
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Tomilola-ng"/></a>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Tomilola-ng&" alt="Tomilola-ng" /></p>
 
 ### Old projects
 <a href="https://github.com/Tomilola-ng/TrackBackendTask2">
