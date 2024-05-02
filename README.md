@@ -3,6 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Tomilola-ng&label=Profile%20views&color=0e75b6&style=flat" alt="Tomilola-ng" /> </p>
 
 I'm Oluwafemi Tomilola, but you can call me Tomi. I'm a passionate entrepreneur and programmer based in Lagos, Nigeria, on a mission to turn dreams into reality through technology.
+I am a certified software engineer with over five years of experience specializing in web development. I have worked in large teams as well as independently with tight deadlines and multiple roles, allowing me to complete tasks effectively under various circumstances. As a young professional, I am flexible and adaptable to any challenge.
 
 ## About Me
 - 🎓 Currently studying Statistics at the University of Lagos.
