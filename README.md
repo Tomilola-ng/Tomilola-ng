@@ -8,7 +8,6 @@ I am a certified software engineer with over five years of experience specializi
 ## About Me
 - 🎓 Currently studying Statistics at the University of Lagos.
 - 💼 Software Engineer at Kara.com.ng.
-- 🚀 Co-Founder of startups: Grouby (a group buying platform) and Shoptinga (a platform for trading digital products with Traditional currencies and crypto).
 - 👨‍💻 Full-stack web developer using ReactJS, NextJS, and Django Rest Framework.
 - 📱 Mobile app developer using React Native and Expo.
 
