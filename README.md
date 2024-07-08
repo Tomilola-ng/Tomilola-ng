@@ -52,12 +52,6 @@ I am a certified software engineer with over five years of experience specializi
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Tomilola-ng"/></a>
 
 ### Old projects
-<a href="https://github.com/Tomilola-ng/TrackBackendTask2">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Tomilola-ng&repo=TrackBackendTask2" />
-</a>
-<a href="https://github.com/Tomilola-ng/TrackBackendTask1">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Tomilola-ng&repo=TrackBackendTask1" />
-</a>
 <a href="https://github.com/Tomilola-ng/Quick_Scripts">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Tomilola-ng&repo=Quick_Scripts" />
 </a>
