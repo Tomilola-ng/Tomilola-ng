@@ -2,12 +2,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Tomilola-ng&label=Profile%20views&color=0e75b6&style=flat" alt="Tomilola-ng" /> </p>
 
-I'm Oluwafemi Tomilola, but you can call me Tomi. I'm a passionate entrepreneur and programmer based in Lagos, Nigeria, on a mission to turn dreams into reality through technology.
-I am a certified software engineer with over five years of experience specializing in web development. I have worked in large teams as well as independently with tight deadlines and multiple roles, allowing me to complete tasks effectively under various circumstances. As a young professional, I am flexible and adaptable to any challenge.
+## I Code NextJS and ReactJS in TypeScript <br /> I Code Flask, Django, Fast API, Web Scrapers, and Automation Programs with Type Annotated Python <br /> I Code React Native using Expo <br /> <br />  I am open to ANY roles listed above 📢
+
+----------
 
 ## About Me
-- 🎓 Currently studying Statistics at the University of Lagos.
-- 💼 Software Engineer at Kara.com.ng.
+- 🎓 Currently studying A.Science at the University of Lagos.
 - 👨‍💻 Full-stack web developer using ReactJS, NextJS, and Django Rest Framework.
 - 📱 Mobile app developer using React Native and Expo.
 
@@ -50,17 +50,6 @@ I am a certified software engineer with over five years of experience specializi
 </a>
 
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Tomilola-ng"/></a>
-
-### Old projects
-<a href="https://github.com/Tomilola-ng/Quick_Scripts">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Tomilola-ng&repo=Quick_Scripts" />
-</a>
-<a href="https://github.com/Tomilola-ng/Tomi-Teaches-C">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Tomilola-ng&repo=Tomi-Teaches-C" />
-</a>
-
-## What Drives Me
-I'm passionate about bringing dreams to life and making a difference. I thrive on optimism and value constructive criticism. Feel free to share your thoughts with me.
 
 ## Let's Connect
 - LinkedIn: [Tomilola Oluwafemi](https://www.linkedin.com/in/tomilola-oluwafemi)
