@@ -16,7 +16,7 @@ I specialize in:
 ---
 
 ## About Me
-- 🎓 Pursuing A.Science at the University of Lagos
+- 🎓 Pursuing Actuarial Science at the University of Lagos
 - 👨‍💻 Full-stack web developer (React + Django Rest Framework)
 - 📱 Mobile app developer (React Native + Expo)
 - 🚀 Passionate about creating efficient, scalable solutions
