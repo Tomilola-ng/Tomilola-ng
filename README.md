@@ -11,7 +11,7 @@ I specialize in:
 - 🐍 Python for Flask, Django, FastAPI, Web Scraping, and Automation
 - 📱 React Native with Expo
 
-**Open to exciting opportunities in these areas!** 📢
+**I'm Open to exciting opportunities in these areas!** 📢
 
 ---
 
