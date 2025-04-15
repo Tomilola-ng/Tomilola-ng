@@ -72,7 +72,8 @@ I adhere to principled programming styles for clean, maintainable code.
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Tomilola-ng&theme=dracula" alt="GitHub Streak" />
+  [![GitHub Streak](https://streak-stats.demolab.com?user=Tomilola-ng)](https://git.io/streak-stats)
+<!--   <img src="https://streak-stats.demolab.com?user=Tomilola-ng&theme=dracula" alt="GitHub Streak" /> -->
 </div>
 
 ## Let's Connect!
