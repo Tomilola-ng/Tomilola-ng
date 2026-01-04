@@ -58,6 +58,7 @@ I specialize in:
 
 ## Awards & Achievements
 [![trophy](https://github-profile-trophy.vercel.app/?username=Tomilola-ng&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![committers.top badge](https://user-badge.committers.top/nigeria/USERNAME.svg)](https://user-badge.committers.top/nigeria/USERNAME)
 
 ## Coding Style
 I adhere to principled programming styles for clean, maintainable code.
